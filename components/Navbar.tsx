@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import logo from '../img/ConnorLogo.png'
+import logo from '../components/img/ConnorLogo.png'
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import {
     DropdownMenu,
